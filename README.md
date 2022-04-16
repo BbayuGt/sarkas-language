@@ -11,6 +11,12 @@ node path/to/dist file.bilek
 umur luwh itu 16 yh
 nama luwh itu "BbayuGt" yh
 
+btulSekali luwh itu btul yh
+tidakBtul luwh itu tidak btul yh
+
+kasih tau btulSekali yh
+kasih tau tidakBtul yh
+
 moment ketika umur > 15 bilek
     kasih tau "Anjay umur luwh " + umur + ", lebih tua dari gwehj" yh
 lucu
