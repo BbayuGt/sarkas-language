@@ -1,10 +1,11 @@
 
-panjangTitid luwh itu 1 yh
+umur luwh itu 16 yh
+nama luwh itu "BbayuGt" yh
 
-moment ketika panjangTitid < 10 bilek
-    kasih tau "Titid lu pendeck anjime" yh
+moment ketika umur > 15 bilek
+    kasih tau "Anjay umur luwh " + umur + ", lebih tua dari gwehj" yh
 lucu
 
-moment ketika panjangTitid > 10 bilek
-    kasih tau "Titid lu gede banget anjime" yh
+moment ketika umur < 15 bilek
+    kasih tau "Umur luwh masih " + umur + " jangan sok keras dek" yh
 lucu
