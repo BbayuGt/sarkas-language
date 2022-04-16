@@ -1,0 +1,10 @@
+
+panjangTitid luwh itu 1 yh
+
+moment ketika panjangTitid < 10 bilek
+    kasih tau "Titid lu pendeck anjime" yh
+lucu
+
+moment ketika panjangTitid > 10 bilek
+    kasih tau "Titid lu gede banget anjime" yh
+lucu
